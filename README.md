@@ -1,0 +1,2 @@
+# AlgoPractice
+Some algo tasks
