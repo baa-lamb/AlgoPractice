@@ -32,6 +32,6 @@
 *.app
 *.vc
 *.opendb
-.vc/
+.vs/
 x64/
 x86/
